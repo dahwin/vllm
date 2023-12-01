@@ -1,6 +1,7 @@
 [build-system]
 requires = [
     "ninja",
+    "torch == 2.0.1",
     "packaging",
     "setuptools",
     "wheel",
